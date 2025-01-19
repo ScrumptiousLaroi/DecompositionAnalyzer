@@ -1,5 +1,5 @@
-# 🌍 Material Detective  
-**Material Detective** is an app designed to promote sustainability by identifying materials, educating users on their environmental impacts, and suggesting eco-friendly alternatives.  
+# 🌍 Decomposition Analyzer 
+**Decomposition Analyzere** is an app designed to promote sustainability by identifying materials, educating users on their environmental impacts, and suggesting eco-friendly alternatives.  
 
 ---
 
